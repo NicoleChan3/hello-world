@@ -1,2 +1,2 @@
 # hello-world
-first
+Hello, I'm Nicole from South College!
